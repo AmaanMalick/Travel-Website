@@ -1,0 +1,7 @@
+website --> download --> img --> 1) pexels.com 2) unsplash.com
+
+linear gradient --> webgradient.com & cssgradient.io
+
+cdnjs.com & fontawesome --> icons 
+
+to host your website --> www.netlify.com
